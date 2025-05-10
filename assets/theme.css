@@ -1,0 +1,35 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+  background-color: #fffaf3;
+}
+
+.hero h1 {
+  font-size: 48px;
+  color: #c4a14f;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 20px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.hero a {
+  padding: 12px 30px;
+  background-color: #c4a14f;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+}
